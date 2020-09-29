@@ -1,8 +1,14 @@
-# Register/Login website
+# Vue register/login website
 
 Register and login website made using Vue.js and Ant Design.
 
-npm install
-npm run serve
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm install`
+
+### `npm run serve`
+
 
 
